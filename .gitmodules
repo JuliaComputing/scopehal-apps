@@ -1,6 +1,6 @@
 [submodule "lib"]
 	path = lib
-	url = ../scopehal.git
+	url = https://github.com/juliacomputing/scopehal.git
 [submodule "doc"]
 	path = doc
 	url = ../scopehal-docs.git
